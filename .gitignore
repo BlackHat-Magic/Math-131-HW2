@@ -11,3 +11,4 @@
 **/tex/*.fdb_latexmk
 **/tex/*.synctex
 **/tex/*.synctex.gz
+**/__pycache__/
